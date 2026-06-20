@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-ausentes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Caricias ausentes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-ausentes/) |
+| **Get License** | [Official Music Licensing for Caricias ausentes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-ausentes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7bdebfddcd52938d12982f29007867bb6c30f8cc0ce49fb0fa4d4e839983fe22` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricias ausentes
+
+This log tracks the cryptographic history and versioning for the song **Caricias ausentes** (caricias-ausentes).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T07:56:08.061543 | `v1` | `7bdebfddcd52938d12982f29007867bb6c30f8cc0ce49fb0fa4d4e839983fe22` | `1268922e0e5001097c16b96218170ce919e7053bb8e978557f0b6d3005ba57f4` | `2026-06-20_caricias-ausentes-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
