@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-ausentes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Caricias ausentes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-ausentes/) |
+| **Get License** | [Secure Licensing Rights for Caricias ausentes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-ausentes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Late night whispers call your name
+> City lights and burning flame
+> Got me hooked on your sweet game
+> Baby you're my only aim
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
